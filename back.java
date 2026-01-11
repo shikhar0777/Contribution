@@ -5,9 +5,9 @@ public class Main {
     }
 
     public static void main ( string[] args) {
-        systen.out.println("Introduction")
+        system.out.println("Introduction");
             }
 
     publis static void main { string[] args) {
-        system.out.println ("Research")
+        system.out.println("Research");
             }
