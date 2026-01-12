@@ -7,3 +7,4 @@ df = pd.DataFrame(data, columns=["Numbers"])
 
 print(df)
 print(de)
+print(dc)
