@@ -11,3 +11,5 @@ public class Main {
     publis static void main { string[] args) {
         system.out.println("Research");
             }
+ publis static void main { string[] args) {
+        system.out.println("Research");
